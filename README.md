@@ -1,2 +1,2 @@
 # Python
-In HKS
+In KHS
