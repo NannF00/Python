@@ -37,3 +37,5 @@ Code:
             print(ss)
 
     Rekursion()
+
+use two paramters
