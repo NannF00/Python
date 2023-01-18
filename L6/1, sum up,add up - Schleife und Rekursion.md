@@ -27,7 +27,7 @@ Code:
     i=int(input("please input your number:"))
     Schleife(i)
 
-
+# False Tree
     def Rekursion(ss=0,ii=1):
         if ii<=10:
             ss+=ii
@@ -37,5 +37,16 @@ Code:
             print(ss)
 
     Rekursion()
+# right tree
 
+let the function return it self
+
+    def aufsummieren(n):
+        if n==0:
+            return 0
+        else:
+            return n+ aufsummieren(n-1)
+
+    n=int(input("Which number you want to make factoral calculation:"))
+    print(aufsummieren(n))
 use two paramters
