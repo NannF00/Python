@@ -33,7 +33,11 @@ Löst dieses Programm auf 2 Arten: einmal mit einer Schleife und einmal mit eine
 
     n=int(input("Which number you want to make factoral calculation:"))
     Rekursion(n)
+    
 # right Tree
+
+let the function return it self
+
     def aufsummieren(n):
         if n==0:
             return 0
