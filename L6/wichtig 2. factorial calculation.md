@@ -34,18 +34,7 @@ Löst dieses Programm auf 2 Arten: einmal mit einer Schleife und einmal mit eine
     n=int(input("Which number you want to make factoral calculation:"))
     Rekursion(n)
     
-# right Tree
 
-let the function return it self
-
-    def aufsummieren(n):
-        if n==0:
-            return 0
-        else:
-            return n+ aufsummieren(n-1)
-
-    n=int(input("Which number you want to make factoral calculation:"))
-    print(aufsummieren(n))
     
  result:
  
